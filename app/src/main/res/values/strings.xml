@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="temperature">Temperature</string>
+    <string name="min_temperature">Min temperature</string>
+    <string name="max_temperature">Max temperature</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="description">Description</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="city">City</string>
+    <string name="max_temp">Max temperature: </string>
+    <string name="min_temp">Min temperature: </string>
+    <string name="pressure_colon">Pressure :</string>
+    <string name="humidity_colon">Humidity :</string>
+    <string name="celsius_temperature_format"> %1$.2f °C</string>
+    <string name="pressure_format">%1$.2f hPa</string>
+    <string name="humidity_format">%1$.2f %%</string>
+    <string name="last_updated">Last updated: </string>
+    <string name="date_format">dd/MM/yyyy kk:mm:ss</string>
+    <string name="date">Date:</string>
+    <string name="city_name">City name...</string>
+    <string name="fetch_forecast_error_message">Please check the entered name of city!</string>
+    <string name="load_forecast_message">Please type the name of city!</string>
+    <string name="fetch_forecast_success_message">Data for city: %1$s</string>
+    <string name="weather_error_message">There was an error while loading data</string>
+</resources>
