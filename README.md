@@ -7,3 +7,5 @@ The app is able to:
 - search for the city and show the forecast for it.  
           
 Weather forecast is pulled from OpenWeatherMap service.
+
+Keywords: RxJava, Dagger 2, MVP, Retrofit, Room
